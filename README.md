@@ -5,7 +5,7 @@ This project is designed as a beginner-friendly exercise in web development.
 
 ## Live Demo
 
-👉 [View on GitHub Pages](https://your-username.github.io/interactive-faq)
+👉 [View on GitHub Pages](https://bvega.github.io/interactive-faq/)
 
 ## Features
 
